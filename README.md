@@ -2,7 +2,7 @@
 
 
 
-### - 🌱 I’m currently learning everything related to Machine Learning
+#### - 🌱 I’m currently learning everything related to Machine Learning
 <!--
 **SkeletonMask/SkeletonMask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
